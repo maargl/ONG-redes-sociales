@@ -3,5 +3,5 @@ Sistema que permite visualizar redes sociales de la atención ciudadana a ONGs c
 - **server.R**: Código con el *back end* del sistema.
 - **ui.R**: Código con el *front end* del sistema.
 
-Un video explicativo del sistema se encuetra disponible [aquí](https://www.youtube.com/watch?v=LPCwpOexiIY).
+Un video explicativo del sistema se encuetra disponible en este [enlace](https://www.youtube.com/watch?v=LPCwpOexiIY).
 
